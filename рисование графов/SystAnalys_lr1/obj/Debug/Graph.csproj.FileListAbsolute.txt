@@ -1,0 +1,33 @@
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\obj\Debug\Graph.csproj.AssemblyReference.cache
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\obj\Debug\Graph.csproj.SuggestedBindingRedirects.cache
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\obj\Debug\Graph.Form1.resources
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\obj\Debug\Graph.csproj.GenerateResource.cache
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+D:\USERS\Рабочий стол\drawgraphProgram\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\obj\Debug\Graph.csproj.AssemblyReference.cache
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\obj\Debug\Graph.csproj.SuggestedBindingRedirects.cache
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\obj\Debug\Graph.Form1.resources
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\obj\Debug\Graph.csproj.GenerateResource.cache
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+D:\USERS\Рабочий стол\Graph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb
+F:\Матаны\Graph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe.config
+F:\Матаны\Graph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.exe
+F:\Матаны\Graph\SystAnalys_lr1\bin\Debug\SystAnalys_lr1.pdb
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graph.csproj.AssemblyReference.cache
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graph.csproj.SuggestedBindingRedirects.cache
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graph.Form1.resources
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.Properties.Resources.resources
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graph.csproj.GenerateResource.cache
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.exe
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\SystAnalys_lr1.pdb

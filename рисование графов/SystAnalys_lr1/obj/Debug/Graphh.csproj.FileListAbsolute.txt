@@ -1,0 +1,6 @@
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graphh.csproj.AssemblyReference.cache
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graphh.csproj.SuggestedBindingRedirects.cache
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graph.Form1.resources
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graphh.Properties.Resources.resources
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graphh.csproj.GenerateResource.cache
+F:\Матаны\Graph\SystAnalys_lr1\obj\Debug\Graphh.csproj.CoreCompileInputs.cache
